@@ -5,6 +5,7 @@ import heroImg from './assets/hero.png'
 import { setupCounter } from './counter.ts'
 import './algorithms/two-sum.ts'
 import './algorithms/bubble-sort.ts'
+import './algorithms/binary-search.ts'
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
 <section id="center">

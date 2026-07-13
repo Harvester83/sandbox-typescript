@@ -24,5 +24,5 @@ function bubbleSort(arr: number[]): number[] {
   return arr;
 }
 
-console.log(bubbleSort(nums)); // [3, 4, 5, 8, 12]
+// console.log(bubbleSort(nums)); // [3, 4, 5, 8, 12]
 

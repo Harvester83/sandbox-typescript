@@ -6,6 +6,7 @@ import { setupCounter } from './counter.ts'
 import './algorithms/two-sum.ts'
 import './algorithms/bubble-sort.ts'
 import './algorithms/binary-search.ts'
+import './algorithms/valid-parentheses.ts'
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
 <section id="center">

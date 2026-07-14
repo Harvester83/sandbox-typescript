@@ -17,7 +17,7 @@ function binarySearch(arr: number[], target: number): number {
   return -1;
 }
 
-console.log(binarySearch([1, 3, 5, 8, 10, 15], 8))
+// console.log(binarySearch([1, 3, 5, 8, 10, 15], 8))
 
 // ITERATION - 1
 // left  = 0
